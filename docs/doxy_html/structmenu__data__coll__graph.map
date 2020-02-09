@@ -1,0 +1,4 @@
+<map id="menu_data" name="menu_data">
+<area shape="rect" id="node1" title="Structure containing data of one full menu." alt="" coords="5,95,92,121"/>
+<area shape="rect" id="node2" href="$structentry__data.html" title="Structure containing data of one menu entry." alt="" coords="7,5,90,32"/>
+</map>

@@ -1,0 +1,24 @@
+<map id="rhythm_manager::update_frame" name="rhythm_manager::update_frame">
+<area shape="rect" id="node1" title=" " alt="" coords="5,434,172,475"/>
+<area shape="rect" id="node2" href="$classnavi.html#ac19201181409776010363f8993a68769" title=" " alt="" coords="228,5,395,32"/>
+<area shape="rect" id="node3" href="$classnote.html#aefddc4590cf0c06c968bd0679d45205d" title="Draw entity to framebuffer." alt="" coords="270,56,353,83"/>
+<area shape="rect" id="node4" href="$classnavi.html#a35285c896ee43ba65ae4b0d970d52eaa" title="Draw entity to framebuffer." alt="" coords="271,107,352,133"/>
+<area shape="rect" id="node5" href="$classrhythm__manager.html#a43ae14a4c240fbb619a631e68225a922" title=" " alt="" coords="220,157,403,184"/>
+<area shape="rect" id="node7" href="$class_font4x6.html#a1e7dc8acb991b00cf2abb5b4919c91d7" title=" " alt="" coords="476,208,609,235"/>
+<area shape="rect" id="node8" href="$classrhythm__manager.html#a51b9af46dfbdbf9937b4176d8c0f3657" title=" " alt="" coords="234,259,389,301"/>
+<area shape="rect" id="node9" href="$class_squawk_synth.html#ad751b2007b4e896f1ac61f401b943c74" title=" " alt="" coords="232,325,391,366"/>
+<area shape="rect" id="node10" href="$classnotelist.html#aca4af2c148f0f64a1a9b0e6cdd1379f6" title=" " alt="" coords="250,391,373,417"/>
+<area shape="rect" id="node11" href="$classnote.html#aa3e0ae9732df25a67cfd2d370d59c863" title=" " alt="" coords="238,441,385,468"/>
+<area shape="rect" id="node12" href="$classnotelist.html#a567de75ae1a5e6da057cc6c387ddda02" title=" " alt="" coords="254,543,369,569"/>
+<area shape="rect" id="node13" href="$classnotelist.html#a8ba6c968a7cf01cd7eab864698849f5e" title=" " alt="" coords="481,517,604,544"/>
+<area shape="rect" id="node14" href="$classnotelist.html#a48177743840a1e7747701294ffef416b" title=" " alt="" coords="481,581,604,608"/>
+<area shape="rect" id="node15" href="$class_squawk_synth.html#aeab0e059a1867c5666aa47434350e5ab" title=" " alt="" coords="244,644,379,671"/>
+<area shape="rect" id="node17" href="$class_squawk_synth.html#a3883e742d66260e22ed258656892720e" title=" " alt="" coords="228,695,395,721"/>
+<area shape="rect" id="node18" href="$classnote.html#a213859d8790b01cb09e947c03fd3bcbb" title="Update entity&#39;s state." alt="" coords="264,745,359,772"/>
+<area shape="rect" id="node19" href="$classnavi.html#ad6677396f6ca1b1450470109da6e3bf9" title="Update entity&#39;s state." alt="" coords="265,796,358,823"/>
+<area shape="rect" id="node20" href="$classrhythm__manager.html#ac5eabd87c9c0b09511d20a97aa5737b8" title=" " alt="" coords="228,847,395,889"/>
+<area shape="rect" id="node6" href="$rhythm__manager_8cpp.html#a3798062f7f9f12003e7d7409c02cc08a" title=" " alt="" coords="493,157,592,184"/>
+<area shape="rect" id="node16" href="$class_squawk_synth.html#a8adfc232338f00876f7f7be8e2caf25b" title=" " alt="" coords="470,644,615,671"/>
+<area shape="rect" id="node21" href="$class_squawk_synth.html#abf57daf2d0ead22b27ca0039d4cc4b29" title=" " alt="" coords="451,825,635,852"/>
+<area shape="rect" id="node22" href="$class_squawk_synth.html#a3538a76cd782084f016e48004b3ffc90" title=" " alt="" coords="465,877,621,918"/>
+</map>

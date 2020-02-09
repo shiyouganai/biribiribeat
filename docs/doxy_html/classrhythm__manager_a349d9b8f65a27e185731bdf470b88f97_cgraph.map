@@ -1,0 +1,4 @@
+<map id="rhythm_manager::draw_scoreboard_bg" name="rhythm_manager::draw_scoreboard_bg">
+<area shape="rect" id="node1" title=" " alt="" coords="5,5,160,47"/>
+<area shape="rect" id="node2" href="$class_font4x6.html#a1e7dc8acb991b00cf2abb5b4919c91d7" title=" " alt="" coords="208,13,341,39"/>
+</map>

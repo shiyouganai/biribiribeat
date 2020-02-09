@@ -1,0 +1,11 @@
+<map id="include/navi.h" name="include/navi.h">
+<area shape="rect" id="node1" title="File declaring navigator class." alt="" coords="179,5,281,32"/>
+<area shape="rect" id="node2" href="$rhythm__manager_8h.html" title="File declaring main gameplay logic class." alt="" coords="143,80,317,107"/>
+<area shape="rect" id="node3" href="$gamestates_8cpp.html" title="File defining classes for game states." alt="" coords="23,155,160,181"/>
+<area shape="rect" id="node9" href="$navi_8cpp.html" title="File defining navigator class." alt="" coords="342,80,435,107"/>
+<area shape="rect" id="node4" href="$note_8h.html" title="File declaring note class." alt="" coords="184,155,287,181"/>
+<area shape="rect" id="node8" href="$rhythm__manager_8cpp.html" title="File defining main gameplay logic class." alt="" coords="250,304,415,331"/>
+<area shape="rect" id="node5" href="$note_8cpp.html" title="File defining note class." alt="" coords="5,229,100,256"/>
+<area shape="rect" id="node6" href="$notelist_8h.html" title="File declaring linked&#45;list of notes class." alt="" coords="175,229,295,256"/>
+<area shape="rect" id="node7" href="$notelist_8cpp.html" title="File defining linked&#45;list of notes class." alt="" coords="99,304,209,331"/>
+</map>

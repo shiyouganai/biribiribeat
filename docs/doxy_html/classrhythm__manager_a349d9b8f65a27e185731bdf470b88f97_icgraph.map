@@ -1,0 +1,4 @@
+<map id="rhythm_manager::draw_scoreboard_bg" name="rhythm_manager::draw_scoreboard_bg">
+<area shape="rect" id="node1" title=" " alt="" coords="239,5,393,47"/>
+<area shape="rect" id="node2" href="$classgame__menu__result.html#a0a09f37fa11c4a7cf640c2c5c29c1973" title="The loop function of a state." alt="" coords="5,13,191,39"/>
+</map>

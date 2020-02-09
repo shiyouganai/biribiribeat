@@ -1,0 +1,8 @@
+<map id="navi::init" name="navi::init">
+<area shape="rect" id="node1" title=" " alt="" coords="489,97,560,123"/>
+<area shape="rect" id="node2" href="$classgame__menu__result.html#ada64d41947ec37172f627f4ef50a7fb5" title="The entry function of a state." alt="" coords="265,5,420,47"/>
+<area shape="rect" id="node3" href="$classgame__menu__main.html#a8f920b0c2807061108a26674a8e7ca65" title="The exit function of a state." alt="" coords="253,71,432,98"/>
+<area shape="rect" id="node4" href="$classgame__menu__result.html#a5c4ced6da1aab1f85450e39efd3e4343" title="The exit function of a state." alt="" coords="251,122,434,149"/>
+<area shape="rect" id="node5" href="$classrhythm__manager.html#a9b0f13465347ee8eadc90b290e871e71" title=" " alt="" coords="244,173,441,199"/>
+<area shape="rect" id="node6" href="$classgame__menu__select__difficulty.html#af958545aff8940c2f0f378ba6a6f146b" title="The loop function of a state." alt="" coords="5,165,196,207"/>
+</map>

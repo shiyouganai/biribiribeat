@@ -1,0 +1,27 @@
+# platformio files
+.pio
+.pioenvs
+.piolibdeps
+
+# vscode files
+.vscode
+*.code-workspace
+
+# dolphin files
+.directory
+
+# c derived files
+*.o
+
+# vim files
+*.swp
+*~
+
+# libreoffice
+*.~lock.*
+
+# jekyll files
+Gemfile
+Gemfile.lock
+docs/_site/*
+docs/.jekyll-cache/*

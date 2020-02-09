@@ -1,0 +1,9 @@
+<map id="navi::update" name="navi::update">
+<area shape="rect" id="node1" title="Update entity&#39;s state." alt="" coords="472,129,565,156"/>
+<area shape="rect" id="node2" href="$classgame__menu__config.html#a95dc2c1f30dfdd21d0f02cff716a8e5d" title="The loop function of a state." alt="" coords="235,5,423,32"/>
+<area shape="rect" id="node3" href="$classgame__menu__select__mode.html#aef3a7be6afd562d28bb9034cb1c284ae" title="The loop function of a state." alt="" coords="241,57,416,98"/>
+<area shape="rect" id="node4" href="$classgame__menu__select__difficulty.html#af958545aff8940c2f0f378ba6a6f146b" title="The loop function of a state." alt="" coords="233,122,424,163"/>
+<area shape="rect" id="node5" href="$classgame__menu__result.html#a0a09f37fa11c4a7cf640c2c5c29c1973" title="The loop function of a state." alt="" coords="236,188,421,215"/>
+<area shape="rect" id="node6" href="$classrhythm__manager.html#ab60c1b0b9205726b94fb8e8774adbd13" title=" " alt="" coords="245,239,412,281"/>
+<area shape="rect" id="node7" href="$classgame__run__playing.html#abd93a35d2d1fd6e8a9409ce9fb146c6e" title="The loop function of a state." alt="" coords="5,247,185,273"/>
+</map>

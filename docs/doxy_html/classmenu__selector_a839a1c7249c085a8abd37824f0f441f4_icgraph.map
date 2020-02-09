@@ -1,0 +1,12 @@
+<map id="menu_selector::move_next" name="menu_selector::move_next">
+<area shape="rect" id="node1" title="Move the cursor to the next menu entry." alt="" coords="483,115,661,141"/>
+<area shape="rect" id="node2" href="$classgame__menu__main.html#a52d8560408e34794cd70de86a2fdef3b" title="The loop function of a state." alt="" coords="249,5,430,32"/>
+<area shape="rect" id="node3" href="$classgame__menu__config.html#a95dc2c1f30dfdd21d0f02cff716a8e5d" title="The loop function of a state." alt="" coords="245,56,433,83"/>
+<area shape="rect" id="node4" href="$classgame__menu__select__mode.html#aef3a7be6afd562d28bb9034cb1c284ae" title="The loop function of a state." alt="" coords="252,107,427,149"/>
+<area shape="rect" id="node5" href="$classgame__menu__select__difficulty.html#af958545aff8940c2f0f378ba6a6f146b" title="The loop function of a state." alt="" coords="244,173,435,214"/>
+<area shape="rect" id="node6" href="$classmenu__selector.html#a9c7f76383fb805c0119fb6e8a0e830b7" title="Set which menu data to handle." alt="" coords="257,239,422,265"/>
+<area shape="rect" id="node7" href="$classgame__menu__main.html#ac7d47af2c5fc70b3fa4eed93622c7742" title="The entry function of a state." alt="" coords="25,133,176,174"/>
+<area shape="rect" id="node8" href="$classgame__menu__config.html#aee5f65d292a963e5b8d508d851270bc6" title="The entry function of a state." alt="" coords="22,198,179,239"/>
+<area shape="rect" id="node9" href="$classgame__menu__select__mode.html#aa6ccc64ff5e3207ef858cca45b7ecca6" title="The entry function of a state." alt="" coords="13,263,188,305"/>
+<area shape="rect" id="node10" href="$classgame__menu__select__difficulty.html#a13c62afe8c2c72df36690be23a30013c" title="The entry function of a state." alt="" coords="5,329,196,370"/>
+</map>

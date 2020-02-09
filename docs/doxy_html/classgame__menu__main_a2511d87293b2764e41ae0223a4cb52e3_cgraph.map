@@ -1,0 +1,8 @@
+<map id="game_menu_main::on_loop" name="game_menu_main::on_loop">
+<area shape="rect" id="node1" title="The loop function of a state." alt="" coords="5,107,187,133"/>
+<area shape="rect" id="node2" href="$classmenu__selector.html#a4e5a2206aba4ad39931ed587ae43fdd7" title="Draw the current menu into the framebuffer." alt="" coords="253,5,395,32"/>
+<area shape="rect" id="node3" href="$class_font4x6.html#a1e7dc8acb991b00cf2abb5b4919c91d7" title=" " alt="" coords="461,31,595,57"/>
+<area shape="rect" id="node4" href="$classmenu__selector.html#a839a1c7249c085a8abd37824f0f441f4" title="Move the cursor to the next menu entry." alt="" coords="235,107,413,133"/>
+<area shape="rect" id="node5" href="$classmenu__selector.html#aae62691e9c3d64e35d1ff6614a855c01" title="Move the cursor to the previous menu entry." alt="" coords="251,158,397,199"/>
+<area shape="rect" id="node6" href="$classmenu__selector.html#a095ffd031f893890b4914414209dfd5e" title="Select the current menu entry." alt="" coords="249,224,399,251"/>
+</map>

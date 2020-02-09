@@ -1,0 +1,16 @@
+<map id="include/entity.h" name="include/entity.h">
+<area shape="rect" id="node1" title="File declaring and defining the entity class." alt="" coords="469,5,578,32"/>
+<area shape="rect" id="node2" href="$navi_8h.html" title="File declaring navigator class." alt="" coords="472,80,575,107"/>
+<area shape="rect" id="node5" href="$note_8h.html" title="File declaring note class." alt="" coords="188,229,291,256"/>
+<area shape="rect" id="node11" href="$menu_8h.html" title="File declaring class for game menus." alt="" coords="648,80,759,107"/>
+<area shape="rect" id="node3" href="$rhythm__manager_8h.html" title="File declaring main gameplay logic class." alt="" coords="277,155,452,181"/>
+<area shape="rect" id="node4" href="$gamestates_8cpp.html" title="File defining classes for game states." alt="" coords="513,229,651,256"/>
+<area shape="rect" id="node10" href="$navi_8cpp.html" title="File defining navigator class." alt="" coords="477,155,570,181"/>
+<area shape="rect" id="node9" href="$rhythm__manager_8cpp.html" title="File defining main gameplay logic class." alt="" coords="157,379,322,405"/>
+<area shape="rect" id="node6" href="$note_8cpp.html" title="File defining note class." alt="" coords="277,304,372,331"/>
+<area shape="rect" id="node7" href="$notelist_8h.html" title="File declaring linked&#45;list of notes class." alt="" coords="82,304,202,331"/>
+<area shape="rect" id="node8" href="$notelist_8cpp.html" title="File defining linked&#45;list of notes class." alt="" coords="5,379,116,405"/>
+<area shape="rect" id="node12" href="$menus_8h.html" title="File declaring all game menu objects." alt="" coords="645,155,762,181"/>
+<area shape="rect" id="node14" href="$menu_8cpp.html" title="File defining class for game menus." alt="" coords="786,155,887,181"/>
+<area shape="rect" id="node13" href="$menus_8cpp.html" title="File defining all game menu objects." alt="" coords="675,229,783,256"/>
+</map>

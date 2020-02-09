@@ -1,0 +1,8 @@
+<map id="log10_floored" name="log10_floored">
+<area shape="rect" id="node1" title=" " alt="" coords="697,42,796,69"/>
+<area shape="rect" id="node2" href="$classrhythm__manager.html#a43ae14a4c240fbb619a631e68225a922" title=" " alt="" coords="467,13,649,39"/>
+<area shape="rect" id="node5" href="$classrhythm__manager.html#a9b32f3e597d00535a289dfa6be6f8bf2" title=" " alt="" coords="481,64,635,105"/>
+<area shape="rect" id="node3" href="$classrhythm__manager.html#ab60c1b0b9205726b94fb8e8774adbd13" title=" " alt="" coords="243,5,409,47"/>
+<area shape="rect" id="node4" href="$classgame__run__playing.html#abd93a35d2d1fd6e8a9409ce9fb146c6e" title="The loop function of a state." alt="" coords="5,13,185,39"/>
+<area shape="rect" id="node6" href="$classgame__menu__result.html#a0a09f37fa11c4a7cf640c2c5c29c1973" title="The loop function of a state." alt="" coords="233,71,419,98"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="notelist::set_next" name="notelist::set_next">
+<area shape="rect" id="node1" title=" " alt="" coords="652,53,775,79"/>
+<area shape="rect" id="node2" href="$classnotelist.html#a567de75ae1a5e6da057cc6c387ddda02" title=" " alt="" coords="489,53,604,79"/>
+<area shape="rect" id="node3" href="$classrhythm__manager.html#a9b0f13465347ee8eadc90b290e871e71" title=" " alt="" coords="244,13,441,39"/>
+<area shape="rect" id="node5" href="$classrhythm__manager.html#ab60c1b0b9205726b94fb8e8774adbd13" title=" " alt="" coords="259,75,426,116"/>
+<area shape="rect" id="node4" href="$classgame__menu__select__difficulty.html#af958545aff8940c2f0f378ba6a6f146b" title="The loop function of a state." alt="" coords="5,5,196,47"/>
+<area shape="rect" id="node6" href="$classgame__run__playing.html#abd93a35d2d1fd6e8a9409ce9fb146c6e" title="The loop function of a state." alt="" coords="11,82,191,109"/>
+</map>

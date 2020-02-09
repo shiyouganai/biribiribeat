@@ -1,0 +1,7 @@
+<map id="navi::change_expression" name="navi::change_expression">
+<area shape="rect" id="node1" title=" " alt="" coords="469,71,636,98"/>
+<area shape="rect" id="node2" href="$classgame__menu__result.html#ada64d41947ec37172f627f4ef50a7fb5" title="The entry function of a state." alt="" coords="250,5,405,47"/>
+<area shape="rect" id="node3" href="$classgame__menu__config.html#a95dc2c1f30dfdd21d0f02cff716a8e5d" title="The loop function of a state." alt="" coords="233,71,421,98"/>
+<area shape="rect" id="node4" href="$classrhythm__manager.html#ab60c1b0b9205726b94fb8e8774adbd13" title=" " alt="" coords="244,123,411,164"/>
+<area shape="rect" id="node5" href="$classgame__run__playing.html#abd93a35d2d1fd6e8a9409ce9fb146c6e" title="The loop function of a state." alt="" coords="5,130,185,157"/>
+</map>

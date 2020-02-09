@@ -1,0 +1,7 @@
+<map id="draw_speech_bubble" name="draw_speech_bubble">
+<area shape="rect" id="node1" title=" " alt="" coords="244,97,387,124"/>
+<area shape="rect" id="node2" href="$classgame__menu__config.html#a95dc2c1f30dfdd21d0f02cff716a8e5d" title="The loop function of a state." alt="" coords="7,5,195,32"/>
+<area shape="rect" id="node3" href="$classgame__menu__select__mode.html#aef3a7be6afd562d28bb9034cb1c284ae" title="The loop function of a state." alt="" coords="13,57,188,98"/>
+<area shape="rect" id="node4" href="$classgame__menu__select__difficulty.html#af958545aff8940c2f0f378ba6a6f146b" title="The loop function of a state." alt="" coords="5,122,196,163"/>
+<area shape="rect" id="node5" href="$classgame__menu__result.html#a0a09f37fa11c4a7cf640c2c5c29c1973" title="The loop function of a state." alt="" coords="8,188,193,215"/>
+</map>

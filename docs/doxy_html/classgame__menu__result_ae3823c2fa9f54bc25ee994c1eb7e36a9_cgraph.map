@@ -1,0 +1,11 @@
+<map id="game_menu_result::on_loop" name="game_menu_result::on_loop">
+<area shape="rect" id="node1" title="The loop function of a state." alt="" coords="5,181,191,208"/>
+<area shape="rect" id="node2" href="$classnavi.html#a35285c896ee43ba65ae4b0d970d52eaa" title="Draw entity to framebuffer." alt="" coords="275,5,357,32"/>
+<area shape="rect" id="node3" href="$classrhythm__manager.html#a9b32f3e597d00535a289dfa6be6f8bf2" title=" " alt="" coords="239,57,393,98"/>
+<area shape="rect" id="node5" href="$class_font4x6.html#a1e7dc8acb991b00cf2abb5b4919c91d7" title=" " alt="" coords="441,152,575,179"/>
+<area shape="rect" id="node6" href="$classrhythm__manager.html#a349d9b8f65a27e185731bdf470b88f97" title=" " alt="" coords="239,174,393,215"/>
+<area shape="rect" id="node7" href="$gamestates_8cpp.html#a0d5ed2a8d59608e8f5fa0d3ccb4cce98" title=" " alt="" coords="245,240,387,267"/>
+<area shape="rect" id="node8" href="$classnavi.html#a342cf8ff1335067c0b51f00581f476d1" title=" " alt="" coords="245,291,387,317"/>
+<area shape="rect" id="node9" href="$classnavi.html#ad6677396f6ca1b1450470109da6e3bf9" title="Update entity&#39;s state." alt="" coords="269,341,363,368"/>
+<area shape="rect" id="node4" href="$rhythm__manager_8cpp.html#a3798062f7f9f12003e7d7409c02cc08a" title=" " alt="" coords="459,64,557,91"/>
+</map>

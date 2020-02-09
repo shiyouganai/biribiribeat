@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+title: BiriBiriBeat
+description: BiriBiriBeat is a miniature rhythm game experience in a microscopic 28KB package! Join your robotic guide Navi and groove together to square wave sounds as you tap your way to the top of the scoreboard!
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /web_assets/web_banner_256x128.png
+logo: /web_assets/square_navi_150x150.png
+show_downloads: false

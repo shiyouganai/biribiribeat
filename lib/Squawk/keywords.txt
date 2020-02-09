@@ -1,0 +1,37 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SquawkSynth	KEYWORD1
+Oscillator	KEYWORD1
+Melody	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+play	KEYWORD2
+pause	KEYWORD2
+stop	KEYWORD2
+tune	KEYWORD2
+tempo	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+Squawk	KEYWORD2
+osc	KEYWORD2
+pcm	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SQUAWK_PWM_PIN3	LITERAL1
+SQUAWK_PWM_PIN5	LITERAL1
+SQUAWK_PWM_PIN6	LITERAL1
+SQUAWK_PWM_PIN9	LITERAL1
+SQUAWK_PWM_PIN10	LITERAL1
+SQUAWK_PWM_PIN11	LITERAL1

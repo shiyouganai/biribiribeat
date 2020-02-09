@@ -1,0 +1,5 @@
+<map id="clear_eeprom" name="clear_eeprom">
+<area shape="rect" id="node1" title=" " alt="" coords="241,31,341,57"/>
+<area shape="rect" id="node2" href="$classgame__run__init.html#aa2b2421597815d427cff4f3bb0022079" title="The entry function of a state." alt="" coords="19,5,180,32"/>
+<area shape="rect" id="node3" href="$classgame__menu__config.html#a95dc2c1f30dfdd21d0f02cff716a8e5d" title="The loop function of a state." alt="" coords="5,56,193,83"/>
+</map>

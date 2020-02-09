@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classbase__state.html" title="Abstract base state class." alt="" coords="5,183,92,209"/>
+<area shape="rect" id="node2" href="$classgame__menu__config.html" title="A class for the state in which the game displays the config menu." alt="" coords="168,5,303,32"/>
+<area shape="rect" id="node3" href="$classgame__menu__main.html" title="A class for the state in which the game displays the main menu." alt="" coords="171,56,299,83"/>
+<area shape="rect" id="node4" href="$classgame__menu__manual.html" title="A class for the state in which the game displays the game manual." alt="" coords="164,107,307,133"/>
+<area shape="rect" id="node5" href="$classgame__menu__result.html" title="A class for the state in which the game displays the gameplay results menu." alt="" coords="169,157,301,184"/>
+<area shape="rect" id="node6" href="$classgame__menu__select__difficulty.html" title="A class for the state in which the game displays the difficulty select menu." alt="" coords="140,208,331,235"/>
+<area shape="rect" id="node7" href="$classgame__menu__select__mode.html" title="A class for the state in which the game displays the mode select menu." alt="" coords="148,259,323,285"/>
+<area shape="rect" id="node8" href="$classgame__run__init.html" title="A class for the state in which the game initializes itself." alt="" coords="184,309,287,336"/>
+<area shape="rect" id="node9" href="$classgame__run__playing.html" title="A class for the state in which the main gameplay occurs." alt="" coords="172,360,299,387"/>
+</map>

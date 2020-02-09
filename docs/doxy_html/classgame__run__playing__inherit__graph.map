@@ -1,0 +1,4 @@
+<map id="game_run_playing" name="game_run_playing">
+<area shape="rect" id="node1" title="A class for the state in which the main gameplay occurs." alt="" coords="5,80,132,107"/>
+<area shape="rect" id="node2" href="$classbase__state.html" title="Abstract base state class." alt="" coords="25,5,112,32"/>
+</map>

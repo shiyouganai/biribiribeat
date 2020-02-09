@@ -1,0 +1,5 @@
+<map id="game_menu_config::on_entry" name="game_menu_config::on_entry">
+<area shape="rect" id="node1" title="The entry function of a state." alt="" coords="5,5,163,47"/>
+<area shape="rect" id="node2" href="$classmenu__selector.html#a9c7f76383fb805c0119fb6e8a0e830b7" title="Set which menu data to handle." alt="" coords="211,13,376,39"/>
+<area shape="rect" id="node3" href="$classmenu__selector.html#a839a1c7249c085a8abd37824f0f441f4" title="Move the cursor to the next menu entry." alt="" coords="424,13,603,39"/>
+</map>

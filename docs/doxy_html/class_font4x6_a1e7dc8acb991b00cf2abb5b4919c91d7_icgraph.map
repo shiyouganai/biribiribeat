@@ -1,0 +1,16 @@
+<map id="Font4x6::setCursor" name="Font4x6::setCursor">
+<area shape="rect" id="node1" title=" " alt="" coords="703,282,836,309"/>
+<area shape="rect" id="node2" href="$classmenu__selector.html#a4e5a2206aba4ad39931ed587ae43fdd7" title="Draw the current menu into the framebuffer." alt="" coords="492,101,635,127"/>
+<area shape="rect" id="node3" href="$classgame__menu__main.html#a52d8560408e34794cd70de86a2fdef3b" title="The loop function of a state." alt="" coords="238,6,419,33"/>
+<area shape="rect" id="node5" href="$classgame__menu__select__mode.html#aef3a7be6afd562d28bb9034cb1c284ae" title="The loop function of a state." alt="" coords="241,71,416,112"/>
+<area shape="rect" id="node6" href="$classgame__menu__select__difficulty.html#af958545aff8940c2f0f378ba6a6f146b" title="The loop function of a state." alt="" coords="233,188,424,229"/>
+<area shape="rect" id="node7" href="$classrhythm__manager.html#a43ae14a4c240fbb619a631e68225a922" title=" " alt="" coords="472,435,655,462"/>
+<area shape="rect" id="node8" href="$classrhythm__manager.html#ab60c1b0b9205726b94fb8e8774adbd13" title=" " alt="" coords="245,471,412,512"/>
+<area shape="rect" id="node9" href="$classgame__run__playing.html#abd93a35d2d1fd6e8a9409ce9fb146c6e" title="The loop function of a state." alt="" coords="5,507,185,534"/>
+<area shape="rect" id="node10" href="$classrhythm__manager.html#a9b32f3e597d00535a289dfa6be6f8bf2" title=" " alt="" coords="486,304,641,345"/>
+<area shape="rect" id="node11" href="$classgame__menu__result.html#a0a09f37fa11c4a7cf640c2c5c29c1973" title="The loop function of a state." alt="" coords="236,283,421,310"/>
+<area shape="rect" id="node12" href="$classrhythm__manager.html#a349d9b8f65a27e185731bdf470b88f97" title=" " alt="" coords="486,369,641,411"/>
+<area shape="rect" id="node13" href="$gamestates_8cpp.html#a0d5ed2a8d59608e8f5fa0d3ccb4cce98" title=" " alt="" coords="492,151,635,178"/>
+<area shape="rect" id="node14" href="$classgame__menu__manual.html#a82160ae8367671b8ca94a63a336f38c5" title="The entry function of a state." alt="" coords="481,588,645,629"/>
+<area shape="rect" id="node4" href="$classgame__menu__config.html#a95dc2c1f30dfdd21d0f02cff716a8e5d" title="The loop function of a state." alt="" coords="235,137,423,163"/>
+</map>

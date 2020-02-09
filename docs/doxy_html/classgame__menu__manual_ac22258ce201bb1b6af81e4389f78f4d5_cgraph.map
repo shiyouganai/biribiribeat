@@ -1,0 +1,4 @@
+<map id="game_menu_manual::on_exit" name="game_menu_manual::on_exit">
+<area shape="rect" id="node1" title="The exit function of a state." alt="" coords="5,5,197,32"/>
+<area shape="rect" id="node2" href="$class_font4x6.html#aad3a37448d5caf2614d79087fc8210b9" title=" " alt="" coords="245,5,396,32"/>
+</map>

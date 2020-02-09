@@ -1,0 +1,12 @@
+<map id="game_menu_select_mode::on_loop" name="game_menu_select_mode::on_loop">
+<area shape="rect" id="node1" title="The loop function of a state." alt="" coords="5,201,180,242"/>
+<area shape="rect" id="node2" href="$classnavi.html#a35285c896ee43ba65ae4b0d970d52eaa" title="Draw entity to framebuffer." alt="" coords="288,5,369,32"/>
+<area shape="rect" id="node3" href="$classmenu__selector.html#a4e5a2206aba4ad39931ed587ae43fdd7" title="Draw the current menu into the framebuffer." alt="" coords="257,56,400,83"/>
+<area shape="rect" id="node4" href="$class_font4x6.html#a1e7dc8acb991b00cf2abb5b4919c91d7" title=" " alt="" coords="477,107,611,133"/>
+<area shape="rect" id="node5" href="$gamestates_8cpp.html#a0d5ed2a8d59608e8f5fa0d3ccb4cce98" title=" " alt="" coords="257,157,400,184"/>
+<area shape="rect" id="node6" href="$classmenu__selector.html#a839a1c7249c085a8abd37824f0f441f4" title="Move the cursor to the next menu entry." alt="" coords="239,208,418,235"/>
+<area shape="rect" id="node7" href="$classmenu__selector.html#aae62691e9c3d64e35d1ff6614a855c01" title="Move the cursor to the previous menu entry." alt="" coords="255,259,402,301"/>
+<area shape="rect" id="node8" href="$classmenu__selector.html#a095ffd031f893890b4914414209dfd5e" title="Select the current menu entry." alt="" coords="253,325,404,352"/>
+<area shape="rect" id="node9" href="$classrhythm__manager.html#abafee24370afe1704be4becd7d730cad" title=" " alt="" coords="228,376,429,403"/>
+<area shape="rect" id="node10" href="$classnavi.html#ad6677396f6ca1b1450470109da6e3bf9" title="Update entity&#39;s state." alt="" coords="282,427,375,453"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="menu_selector::draw" name="menu_selector::draw">
+<area shape="rect" id="node1" title="Draw the current menu into the framebuffer." alt="" coords="244,85,387,112"/>
+<area shape="rect" id="node2" href="$classgame__menu__main.html#a52d8560408e34794cd70de86a2fdef3b" title="The loop function of a state." alt="" coords="10,5,191,32"/>
+<area shape="rect" id="node3" href="$classgame__menu__config.html#a95dc2c1f30dfdd21d0f02cff716a8e5d" title="The loop function of a state." alt="" coords="7,56,195,83"/>
+<area shape="rect" id="node4" href="$classgame__menu__select__mode.html#aef3a7be6afd562d28bb9034cb1c284ae" title="The loop function of a state." alt="" coords="13,107,188,149"/>
+<area shape="rect" id="node5" href="$classgame__menu__select__difficulty.html#af958545aff8940c2f0f378ba6a6f146b" title="The loop function of a state." alt="" coords="5,173,196,214"/>
+</map>

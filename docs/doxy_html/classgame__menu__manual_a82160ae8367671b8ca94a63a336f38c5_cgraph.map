@@ -1,0 +1,5 @@
+<map id="game_menu_manual::on_entry" name="game_menu_manual::on_entry">
+<area shape="rect" id="node1" title="The entry function of a state." alt="" coords="5,23,169,65"/>
+<area shape="rect" id="node2" href="$class_font4x6.html#a1e7dc8acb991b00cf2abb5b4919c91d7" title=" " alt="" coords="226,5,359,32"/>
+<area shape="rect" id="node3" href="$class_font4x6.html#aad3a37448d5caf2614d79087fc8210b9" title=" " alt="" coords="217,56,368,83"/>
+</map>

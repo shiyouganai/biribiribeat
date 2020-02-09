@@ -1,0 +1,5 @@
+<map id="rhythm_manager::get_mode" name="rhythm_manager::get_mode">
+<area shape="rect" id="node1" title=" " alt="" coords="244,46,428,73"/>
+<area shape="rect" id="node2" href="$classgame__menu__result.html#ada64d41947ec37172f627f4ef50a7fb5" title="The entry function of a state." alt="" coords="23,5,178,47"/>
+<area shape="rect" id="node3" href="$classgame__menu__select__difficulty.html#af958545aff8940c2f0f378ba6a6f146b" title="The loop function of a state." alt="" coords="5,71,196,112"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="game_run_init::on_entry" name="game_run_init::on_entry">
+<area shape="rect" id="node1" title="The entry function of a state." alt="" coords="5,56,167,83"/>
+<area shape="rect" id="node2" href="$class_squawk_synth.html#afcd1a2587d3be2c5e9c084c1815e4e9f" title=" " alt="" coords="219,5,360,32"/>
+<area shape="rect" id="node3" href="$gamestates_8cpp.html#ad33ab8e9c6fbbd3b3a3466edd78ec13c" title=" " alt="" coords="239,56,339,83"/>
+<area shape="rect" id="node4" href="$gamestates_8cpp.html#abac946cfbb9b03497dc9ae129bca0d0c" title=" " alt="" coords="215,107,364,149"/>
+</map>

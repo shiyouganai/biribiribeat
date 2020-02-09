@@ -1,0 +1,6 @@
+<map id="base_state::on_entry" name="base_state::on_entry">
+<area shape="rect" id="node1" title="The entry function of a state." alt="" coords="247,31,391,57"/>
+<area shape="rect" id="node2" href="$classgame.html#ad9c102127b5038f880067ad6c9198d38" title=" " alt="" coords="104,5,199,32"/>
+<area shape="rect" id="node3" href="$classgame.html#ad6bf133c5f51ea2e038a101e6311777d" title="Run the game." alt="" coords="108,56,195,83"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a840291bc02cba5474a4cb46a9b9566fe" title=" " alt="" coords="5,56,56,83"/>
+</map>

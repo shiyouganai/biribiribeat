@@ -1,0 +1,6 @@
+<map id="game::loop" name="game::loop">
+<area shape="rect" id="node1" title="Run the game." alt="" coords="5,56,92,83"/>
+<area shape="rect" id="node2" href="$classbase__state.html#a1874bb240ebccb9293862dfcdf118322" title="The entry function of a state." alt="" coords="140,5,284,32"/>
+<area shape="rect" id="node3" href="$classbase__state.html#a35a117151a89da744765c8c267da1f29" title="The exit function of a state." alt="" coords="144,56,280,83"/>
+<area shape="rect" id="node4" href="$classbase__state.html#ad484d231c6bc5aa3f672c0a781905999" title="The loop function of a state." alt="" coords="143,107,281,133"/>
+</map>
